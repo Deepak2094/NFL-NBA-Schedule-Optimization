@@ -1,0 +1,31 @@
+Team,Abbreviation,City LAT,City LON,Popularity Rank,Pop Score (fans in millions), Conference, Division, Schedule Order
+Atlanta Hawks,ATL,33.7490,- 84.388,29,1.63, Eastern, Southeast,11
+Boston Celtics,BOS,42.3601,- 71.058,6,9.04, Eastern, Atlantic,1
+Brooklyn Nets,BKN,40.6782,- 73.944,16,2.7, Eastern, Atlantic,2
+Charlotte Hornets,CHA,35.2271,- 80.843,25,1.76, Eastern, Southeast,12
+Chicago Bulls,CHI,41.8781,- 87.629,2,18.09, Eastern, Central,6
+Cleveland Cavaliers,CLE,41.4993,- 81.694,7,8.84, Eastern, Central,7
+Dallas Mavericks,DAL,32.7767,- 96.797,12,4.41, Western, Southwest,26
+Denver Nuggets,DEN,39.7392,- 104.99,19,1.99, Western, Northwest,16
+Detroit Pistons,DET,42.3314,- 83.045,24,1.8, Eastern, Central,8
+Golden State Warriors,GS,37.8044,- 122.27,4,11.32, Western, Pacific,21
+Houston Rockets,HOU,29.7604,- 95.369,5,10.46, Western, Southwest,27
+Indiana Pacers,IND,39.7684,- 86.158,14,3.29, Eastern, Central,9
+LA Clippers,LAC,34.0522,- 118.24,13,3.81, Western, Pacific,22
+LA Lakers,LAL,34.0522,- 118.24,1,21.52, Western, Pacific,23
+Memphis Grizzlies,MEM,35.1495,- 90.049,23,1.82, Western, Southwest,28
+Miami Heat,MIA,25.7617,- 80.191,3,15.52, Eastern, Southeast,13
+Milwaukee Bucks,MIL,43.0389,- 87.906,28,1.64, Eastern, Central,10
+Minnesota Timberwolves,MIN,44.9778,- 93.265,21,1.89, Western, Northwest,17
+New Orleans Pelicans,NO,29.9511,- 90.071,26,1.74, Western, Southwest,29
+New York Knicks,NY,40.7128,- 74.006,11,5.94, Eastern, Atlantic,3
+Oklahoma City Thunder,OKC,35.4676,- 97.516,8,7.17, Western, Northwest,18
+Orlando Magic,ORL,28.5383,- 81.379,15,2.77, Eastern, Southeast,14
+Philadelphia 76ers,PHI,39.9526,- 75.165,27,1.7, Eastern, Atlantic,4
+Phoenix Suns,PHX,33.4484,- 112.07,20,1.9, Western, Pacific,24
+Portland Trail Blazers,POR,45.5122,- 122.65,17,2.42, Western, Northwest,19
+Sacramento Kings,SAC,38.5816,- 121.49,10,6.61, Western, Pacific,25
+San Antonio Spurs,SAS,29.4241,- 98.493,9,7.15, Western, Southwest,30
+Toronto Raptors,TOR,43.6532,- 79.383,18,2.28, Eastern, Atlantic,5
+Utah Jazz,UTA,40.7608,- 111.89,22,1.82, Western, Northwest,20
+Washington Wizards,WAS,38.9072,- 77.036,30,1.53, Eastern, Southeast,15
